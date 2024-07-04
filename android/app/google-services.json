@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10238606282",
+    "project_id": "dormbnb-capstone",
+    "storage_bucket": "dormbnb-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10238606282:android:5d4850e8d5e17398fbed33",
+        "android_client_info": {
+          "package_name": "com.example.dormbnb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvsilu-NzqD1M9Wzpwa8BG2bEOjrTqI0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
